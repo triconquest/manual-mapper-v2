@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: unresolved external symbol NtOpenProcess referenced in function main
+main.obj : error LNK2019: unresolved external symbol NtWriteVirtualMemory referenced in function main
+main.obj : error LNK2019: unresolved external symbol NtAllocateVirtualMemory referenced in function main
+C:\Users\user\source\repos\li work\x64\Debug\li work.exe : fatal error LNK1120: 3 unresolved externals

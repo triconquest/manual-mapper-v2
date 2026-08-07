@@ -1,0 +1,10 @@
+﻿  Assembling src\syscalls\syscalls_common_stubs.std.x64.asm...
+  main.cpp
+  memory.cpp
+  syscalls_common.c
+  Generating code
+  81 of 85 functions (95.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  li work.vcxproj -> C:\Users\user\Desktop\this 2 easy\x64\Release\li work.exe
